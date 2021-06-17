@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *my_function-This is the main function
+ *main-This is the main function
+ *return-This returns with  a 0 
  */
 int main(void)
 {
