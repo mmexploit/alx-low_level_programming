@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-printf("Size of a char:", sizeof(char));
+printf("Size of a char %zu\n:", sizeof(char),"byte(s)");
 
 return (0);
 }
