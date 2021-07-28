@@ -5,7 +5,7 @@
  * print_c - prints a char
  * @c: char to print
  *
- * Return: always 1
+ * Return: 1
  */
 int print_c(va_list c)
 {
@@ -95,7 +95,7 @@ int print_S(va_list S)
  * print_r - prints astring in reverse
  * @r: string to print
  *
- * Return: number of chars printed
+ * Return: number of chars outputed
  */
 int print_r(va_list r)
 {
