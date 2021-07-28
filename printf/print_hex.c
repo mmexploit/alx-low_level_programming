@@ -1,11 +1,11 @@
 #include "holberton.h"
 
 /**
- * print_hex - prints an unsigned int in hexidecimal form
+ * print_hex - prints an unsigned int in hexidecimal 
  * @n: unsigned int to print
  * @c: flag to determine case of printing (0 = lower, 1 = upper)
  *
- * Return: number of digits printed
+ * Return: number of digits 
  */
 int print_hex(unsigned int n, unsigned int c)
 {
