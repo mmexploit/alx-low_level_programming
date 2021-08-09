@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include "main.h"
 /**
   * placeholder2 - define function
   * @void: describe argument
@@ -8,4 +9,3 @@ int placeholder2(void)
 {
 	return (0);
 }
-
